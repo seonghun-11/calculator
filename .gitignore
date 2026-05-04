@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Temporary installer scripts
+calculator.py
+calculator2.py
